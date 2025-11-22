@@ -1,0 +1,111 @@
+# 🌙 Nocturne — Private RWA Investments 🔐
+
+> **Private. Secure. Multichain. Welcome to the future of Real World Asset investing.**
+
+> **Real World Asset platform that enables you to purchase shares with privacy.**
+
+[➡️ Live Demo](https://nocturne-rwa.vercel.app)
+
+---
+
+## ✨ What is Nocturne?
+
+**Nocturne** is a cutting-edge **Real World Asset (RWA)** platform that enables you to **purchase shares** in tokenized real-world assets with **full privacy**. The amount of shares you own remains **completely confidential** while maintaining verifiable on-chain transparency where it matters.
+
+---
+
+
+
+## 🤝 Powered by
+
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../asset/layerzero.png" alt="Layer Zero" height="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../asset/iexec.png" alt="iExec" height="80" />
+  <img src="../asset/hardhat.svg" alt="Hardhat" height="80" />
+</p>
+
+---
+
+## 💥 Start Investing Privately
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=29AFB3&center=true&vCenter=true&width=700&lines=🔐+Your+holdings+stay+private;🌐+Access+RWAs+across+chains;🚀+Simple+and+secure+investing" alt="Typing SVG" />
+</p>
+
+[➡️ Get Started Now](https://nocturne-rwa.vercel.app)
+
+---
+
+## 🚀 Core Advantages
+
+| 🔒 Private Holdings | 🔗 Multichain Access | 🏢 Real World Assets |
+|---------------------|----------------------|----------------------|
+| Your share amounts are **private** thanks to **Trusted Execution Environments (TEE)**. Only you know what you own. | Powered by **Layer Zero OApp** — invest in RWAs across **multiple blockchains** seamlessly. | Access tokenized **real estate**, **commodities**, **bonds**, and more — bringing traditional assets on-chain. |
+
+---
+
+## 🏗️ Tech Stack
+
+- 🔐 **Trusted Execution Environments (TEE)** — Confidential computing for private transactions
+- 🧠 **iExec** — Decentralized TEE infrastructure
+- 🌐 **Layer Zero OApp** — Multichain TEE deployment for cross-chain privacy
+- 🦾 **Smart Contracts** — Secure and transparent asset management
+- 🧪 **Hardhat** — Robust testing framework for smart contract development
+
+---
+
+## ❓ Frequently Asked Questions
+
+<details>
+  <summary>🤔 What is Nocturne?</summary>
+  <p>Nocturne is a <strong>Real World Asset (RWA) platform</strong> that allows you to purchase shares in tokenized assets with <strong>complete privacy</strong> on the amount you own.</p>
+</details>
+
+<details>
+  <summary>🔒 How is my investment kept private?</summary>
+  <p>We use <strong>Trusted Execution Environments (TEE)</strong> powered by <strong>iExec</strong> to ensure your share amounts remain confidential while transactions are verifiable.</p>
+</details>
+
+<details>
+  <summary>🌐 Which blockchains are supported?</summary>
+  <p>Nocturne uses <strong>Layer Zero OApp</strong> to enable multichain deployment, allowing you to invest across multiple networks seamlessly.</p>
+</details>
+
+<details>
+  <summary>🏢 What types of RWAs can I invest in?</summary>
+  <p>Real estate, commodities, bonds, and other <strong>tokenized real-world assets</strong> — bringing traditional investment opportunities on-chain.</p>
+</details>
+
+<details>
+  <summary>🚀 How do I get started?</summary>
+  <p>Connect your wallet, browse available RWAs, and purchase shares — all while maintaining <strong>full privacy</strong> on your holdings.</p>
+</details>
+
+---
+
+## 🧬 Built With Privacy-First Technology
+
+Nocturne leverages **Trusted Execution Environments (TEE)** through **iExec** to guarantee that your investment amounts remain private, while **Layer Zero** enables seamless multichain functionality.
+
+---
+
+## 🛠️ Development
+
+Our smart contracts are developed and tested using **Hardhat**:
+- Comprehensive test coverage
+- Secure deployment processes
+- Reliable contract interactions
+- Multichain compatibility
+
+---
+
+> _"Nocturne brings the world of real-world assets on-chain with **privacy**, **security**, and **multichain access**."_ 🌙
+
+<p align="center">
+  <img src="https://img.shields.io/badge/privacy-TEE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/multichain-LayerZero-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/test-hardhat-green?style=for-the-badge" />
+</p>
+

@@ -2,8 +2,6 @@
 
 > **Private. Secure. Multichain. Welcome to the future of Real World Asset investing.**
 
-> **Real World Asset platform that enables you to purchase shares with privacy.**
-
 [➡️ Live Demo](https://nocturne-rwa.vercel.app)
 
 ---

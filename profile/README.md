@@ -8,7 +8,7 @@
 
 ## ✨ What is Nocturne?
 
-**Nocturne** is a cutting-edge **Real World Asset (RWA)** platform that enables you to **purchase shares** in tokenized real-world assets with **full privacy**. The amount of shares you own remains **completely confidential** while maintaining verifiable on-chain transparency where it matters.
+**Nocturne** is a cutting-edge **Real World Asset** platform that enables you to **purchase shares** in tokenized real-world assets with **privacy**. The amount of shares you own remains **completely confidential** while maintaining verifiable on-chain transparency where it matters.
 
 ---
 

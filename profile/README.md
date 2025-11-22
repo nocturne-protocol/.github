@@ -42,6 +42,21 @@ Nocturne is a **cross-chain private-token** platform that lets you buy tokenized
 |---------------------|----------------------|----------------------|
 | Your share amounts are **private** thanks to **Trusted Execution Environments (TEE)**. Only you know what you own. | Powered by **Layer Zero OApp** — invest in RWAs across **multiple blockchains** seamlessly. | Access tokenized **real estate**, **commodities**, **bonds**, and more — bringing traditional assets on-chain. |
 
+
+## 🌙 Nocturne — Private Cross-Chain Tokenized Assets
+
+Nocturne is a private-token platform that brings real-world assets on-chain while preserving user privacy across multiple blockchains. It allows anyone to invest in real-world assets through private tokens that retain the full value of the underlying stock. Instead of revealing sensitive information on a public ledger, Nocturne enables users to buy and trade tokenized shares without exposing how many they hold.
+
+Nocturne is designed to onboard a wide range of real-world assets—including equities, commodities, real estate shares, and more. It bridges traditional finance with decentralized markets while removing the privacy limitations of pure on-chain systems.
+
+To achieve this, the system purchases the real stock and then mints a private token that represents it on-chain. Users interact with these private tokens: they can be transferred, redeemed, or traded seamlessly—while the quantity owned remains hidden from public view. Privacy is focused on what matters most: your holdings, and your ability to use them without revealing your portfolio.
+
+As a cross-chain platform, Nocturne allows investors to access tokenized assets from multiple blockchain ecosystems. Whether the user is on Base, Arbitrum or other supported networks, the platform provides unified access and private settlement through LayerZero’s messaging layer. Investors can interact from their preferred chain.
+
+Under the hood, Nocturne is built on iExec’s infrastructure, with confidential compute workflows deployed through the iApp Generator. This framework uses secure enclaves to handle all sensitive operations—such as processing share quantities—while rigorously validating each computation. The iApp Generator also simplifies access to confidential computing by providing streamlined deployment and integrated confidential key management. This ensures that privacy never comes at the cost of security or verifiability. Combined with on-chain smart contracts for issuance and settlement, Nocturne leverages iExec and its iApp Generator to deliver a hybrid architecture: private where it matters, and transparent where trust requires it.
+
+Ultimately, the goal is simple: connect your wallet, explore available assets, and invest privately, securely, and across chains. Nocturne brings together privacy-preserving technology, multichain accessibility, and real-world value into a unified investing experience.
+
 ---
 
 ## 🏗️ Tech Stack

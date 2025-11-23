@@ -66,7 +66,7 @@ Ultimately, the goal is simple: connect your wallet, explore available assets, a
 - 🌐 **Layer Zero OApp** — Multichain TEE deployment for cross-chain privacy
 - 🦾 **Smart Contracts** — Secure and transparent asset management
 - 🧪 **Hardhat** — Robust testing framework for smart contract development
-- 
+
 ---
 
 <img src="../asset/diagram.png" alt="diagram"/>

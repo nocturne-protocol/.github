@@ -54,7 +54,7 @@ Nocturne is a **cross-chain private-token** platform that lets you buy tokenized
 
 ---
 
-<img src="../asset/diagram.png" alt="diagram"/>
+<img src="../asset/fulldiagram.png" alt="diagram"/>
 
 ---
 
